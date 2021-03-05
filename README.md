@@ -27,6 +27,8 @@ Getting used to developer's behavior in CYDAS.
 
 1. GitHub Desktop の `Publish Branch` ボタンをクリック
 
+
+
 ### __4.プルしよう（Pull）__
 1. VS Code 画面左下ブランチ名称クリックし、リモートブランチを選択する。
 1. 画面左サイドバーのソース管理アイコンをクリックする。
