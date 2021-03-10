@@ -45,3 +45,8 @@ Getting used to developer's behavior in CYDAS.
 ### __7.不要になったリモートブランチを削除する__
 1. マージ後、「Delete branch」が表示されるのでクリックしてbranchを削除する。
 1. "deleted the［branch名］branch now" とメッセージが出たら削除の完了。
+
+### __8.不要になったローカルブランチを削除する__
+1. VS Code 画面左下ブランチ名称をクリックし、削除対象のブランチとは別のブランチを選択しておく。
+1. ターミナル画面で　git branch -d [削除したいローカルブランチ名]　を実行する。
+1. Deleted branch [削除したローカルブランチ名] と返ってくれば成功

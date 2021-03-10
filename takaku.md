@@ -1,2 +1,0 @@
-takaku test
-hello
