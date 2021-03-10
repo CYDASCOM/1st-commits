@@ -42,8 +42,6 @@ Getting used to developer's behavior in CYDAS.
 ### __6.プルリクエストからマージまでの流れ__
 
 
-### __7.リモートリポジトリから最新の状態を取得しよう（Fetch）__
-
-
-### __8.不要になったリモートブランチを削除する__
-
+### __7.不要になったリモートブランチを削除する__
+1. マージ後、「Delete branch」が表示されるのでクリックしてbranchを削除する。
+1. "deleted the［branch名］branch now" とメッセージが出たら削除の完了。
