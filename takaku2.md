@@ -1,1 +1,0 @@
-takaku test 2nd
