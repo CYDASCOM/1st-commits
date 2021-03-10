@@ -26,8 +26,8 @@ Getting used to developer's behavior in CYDAS.
 ### __3.プッシュしよう（Push）__
 
 1. GitHub Desktop の `Publish Branch` または `Push origin`ボタンをクリック
-  1. `Current Branch` のブランチが `Current Repository` に対してPushされる
-  2. `Current Branch` がまだ一度もPushされていない場合は `Publish Branch` それ以外の場合は `Push origin` が表示される 
+  * `Current Branch` のブランチが `Current Repository` に対してPushされる
+  * `Current Branch` がまだ一度もPushされていない場合は `Publish Branch` それ以外の場合は `Push origin` が表示される
 
 ### __4.プルしよう（Pull）__
 1. VS Code 画面左下ブランチ名称クリックし、リモートブランチを選択する。
