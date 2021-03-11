@@ -43,7 +43,8 @@ Getting used to developer's behavior in CYDAS.
 1. 再プッシュする。
 
 ### __6.プルリクエストからマージまでの流れ__
-1. 「New pull request」 をクリックして「compare:」にローカルで作業したブランチを「base:」にマージ先のブランチを指定する。
+1. 「Compare & pull request」をクリックする。
+1. レビューワーを指定する。
 1. タイトルと概要を入力する。
 1. 「Create pull request」をクリックしてプルリクエストを作成する。
 1. レビューワーが変更内容のレビューを実施する。
