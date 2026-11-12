@@ -48,7 +48,7 @@ Getting used to developer's behavior in CYDAS.
 1. タイトルと概要を入力する。
 1. 「Create pull request」をクリックしてプルリクエストを作成する。
 1. レビューワーが変更内容のレビューを実施する。
-1. 「Merge pull request」をクリック後に「Confirm merge」をクリックしてマージする。
+1. 「Merge pull request」をクリック後に「Confirm merge」をクリックしてマージする。ok
 
 ### __7.不要になったリモートブランチを削除する__
 1. マージ後、「Delete branch」が表示されるのでクリックしてbranchを削除する。
